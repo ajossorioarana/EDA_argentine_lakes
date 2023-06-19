@@ -11,6 +11,7 @@ seaborn = "*"
 statsmodels = "*"
 geopandas = "*"
 geopy = "*"
+tabulate = "*"
 
 [dev-packages]
 
