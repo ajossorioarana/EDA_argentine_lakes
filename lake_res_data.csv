@@ -10,17 +10,17 @@
 9,Sumampa,reservoir,ANW,2.2,10,516,27.95,20,0.9,54,61,24.6
 10,las Pirquitas,reservoir,ANW,2.8,26.8,759,28.33,20,0.78,44,49,15.4
 11,Los Sauces,reservoir,ANW,1.5,8.1,847,29.42,20.4,0.7,86,59,37.4
-12,Anzulón,reservoir,Pampas Mountains,5.5,4.9,575,30.88,19,0.28,477,75,4
-13,Portezuelo,reservoir,Pampas Mountains,2.5,3.3,750,30.67,18,0.8,79,125,25.1
-14,Cruz del Eje,reservoir,Pampas Mountains,13.5,9.5,500,30.77,19.3,1.1,22,27,5.6
-15,Mar Chiquita,lake,Pampas Mountains,1984,7.3,69,30.7,18.5,1.1,86,204,38.5
-16,Saladillo,reservoir,Pampas Mountains,4.8,3,600,31,19,0.3,320,352,218.1
-17,San Roque,reservoir,Pampas Mountains,24.8,14.1,640,31.42,17,2.4,28,45,9
+12,Anzulón,reservoir,Pampa Mountains,5.5,4.9,575,30.88,19,0.28,477,75,4
+13,Portezuelo,reservoir,Pampa Mountains,2.5,3.3,750,30.67,18,0.8,79,125,25.1
+14,Cruz del Eje,reservoir,Pampa Mountains,13.5,9.5,500,30.77,19.3,1.1,22,27,5.6
+15,Mar Chiquita,lake,Pampa Mountains,1984,7.3,69,30.7,18.5,1.1,86,204,38.5
+16,Saladillo,reservoir,Pampa Mountains,4.8,3,600,31,19,0.3,320,352,218.1
+17,San Roque,reservoir,Pampa Mountains,24.8,14.1,640,31.42,17,2.4,28,45,9
 18,Ullum,reservoir,Cuyo,32,14,768,31.53,17.3,1.27,17,20,0.93
-19,La Viña,reservoir,Pampas Mountains,10.5,23,846,31.85,16.9,2.2,25,37,6.7
-20,Los Molinos,reservoir,Pampas Mountains,24.5,16.3,770,31.83,16,2.3,26,29,14.1
-21,Río Tercero,reservoir,Pampas Mountains,54.3,13.5,661,32.22,16.7,2.5,24,36,18.5
-22,San Felipe,reservoir,Pampas Mountains,15.4,7.1,843,32.78,16.5,0.9,41,76,50.8
+19,La Viña,reservoir,Pampa Mountains,10.5,23,846,31.85,16.9,2.2,25,37,6.7
+20,Los Molinos,reservoir,Pampa Mountains,24.5,16.3,770,31.83,16,2.3,26,29,14.1
+21,Río Tercero,reservoir,Pampa Mountains,54.3,13.5,661,32.22,16.7,2.5,24,36,18.5
+22,San Felipe,reservoir,Pampa Mountains,15.4,7.1,843,32.78,16.5,0.9,41,76,50.8
 23,La Florida,reservoir,Cuyo,7,15,1032,33.18,16,3.2,15,23,3.8
 24,El Carrizal,reservoir,Cuyo,32,12.2,790,33.33,15,1.9,13,22,4.8
 25,El Diamante,lake,Cuyo,13.4,38.6,3250,34.17,3,4.9,11,22,0.67
@@ -28,34 +28,34 @@
 27,Los Reyunos,reservoir,Cuyo,7.5,33.3,991,34.65,13,4,9,21,1.45
 28,Valle Grande,reservoir,Cuyo,5.1,33,814,34.8,13,4.9,9,14,1.16
 29,El Nihuil,reservoir,Cuyo,96,4,1325,35.7,11,5.8,18,29,1.3
-30,Melincué,lake,Pampa Plain,48.2,3.2,97,33.72,16.5,0.15,7912,240,5.7
-31,El Carpincho,lake,Pampa Plain,4.4,1.2,70,34.58,15.8,0.6,1288,299,82.4
-32,De Gómez,lake,Pampa Plain,36.6,1.1,75,34.63,15.8,0.18,1250,762,405.3
-33,Navarro,lake,Pampa Plain,2.1,0.7,30,35.05,16.3,0.17,350,434,112.7
-34,Las mulitas,lake,Pampa Plain,1.4,1.5,40,35.43,15.5,0.65,102,283,24.1
-35,De Lobos,lake,Pampa Plain,7.5,1.2,20,35.27,16,0.25,285,359,166.2
-36,Indio Muerto,lake,Pampa Plain,6.3,1.6,35,35.45,16,1,119,192,12.6
-37,De Monte,lake,Pampa Plain,6.4,1.4,20,35.45,16,0.7,245,165,40.6
-38,La Chilca,lake,Pampa Plain,10,1.5,55,35.78,15.5,1.05,81,220,13.5
-39,Chascomús,lake,Pampa Plain,28.7,1.5,7,35.6,16.5,0.15,230,168,57.3
-40,La Limpia,lake,Pampa Plain,5.6,1.9,10,35.62,16.5,0.15,1137,173,8.6
-41,La Tablilla,lake,Pampa Plain,12.9,1.1,9,35.8,16,2.1,23,92,2
-42,Blanca Grande,lake,Pampa Plain,4.1,1.5,100,36.47,15,0.2,250,185,67.4
-43,Alsina,lake,Pampa Plain,25.7,1.1,105,36.88,15,0.3,207,292,120.8
-44,Cochicó,lake,Pampa Plain,36.6,1.9,103,36.92,15,0.45,181,281,98.2
-45,Salada Grande,lake,Pampa Plain,48.1,2,2,36.92,14.5,4.6,53,161,1.6
-46,Los Horcones,lake,Pampa Plain,2,1.3,5,37,14.5,0.65,264,233,15.7
-47,Del Monte,lake,Pampa Plain,80,5.2,100,37,15,0.5,157,300,89
-48,Dulce,lake,Pampa Plain,2.5,2.7,98,37.06,15,0.25,398,363,115.1
-49,Del Venado,lake,Pampa Plain,25.3,3.8,97,37.08,15,0.28,456,339,153.4
-50,Epecuén,lake,Pampa Plain,45,4,95,37.13,15,0.2,1608,316,55.4
-51,La Brava,lake,Pampa Plain,4.3,3.4,70,37.88,14,1.4,188,79,7.9
-52,De los Padres,lake,Pampa Plain,2.9,2.7,50,37.87,13.8,2.9,124,73,3.3
-53,De Pigüé,lake,Pampa Plain,6.4,2.5,250,38.05,14,0.33,127,278,46.7
-54,De Saavedra,lake,Pampa Plain,4.5,2.7,253,38.03,14,0.52,72,117,23.8
+30,Melincué,lake,Pampa Plains,48.2,3.2,97,33.72,16.5,0.15,7912,240,5.7
+31,El Carpincho,lake,Pampa Plains,4.4,1.2,70,34.58,15.8,0.6,1288,299,82.4
+32,De Gómez,lake,Pampa Plains,36.6,1.1,75,34.63,15.8,0.18,1250,762,405.3
+33,Navarro,lake,Pampa Plains,2.1,0.7,30,35.05,16.3,0.17,350,434,112.7
+34,Las mulitas,lake,Pampa Plains,1.4,1.5,40,35.43,15.5,0.65,102,283,24.1
+35,De Lobos,lake,Pampa Plains,7.5,1.2,20,35.27,16,0.25,285,359,166.2
+36,Indio Muerto,lake,Pampa Plains,6.3,1.6,35,35.45,16,1,119,192,12.6
+37,De Monte,lake,Pampa Plains,6.4,1.4,20,35.45,16,0.7,245,165,40.6
+38,La Chilca,lake,Pampa Plains,10,1.5,55,35.78,15.5,1.05,81,220,13.5
+39,Chascomús,lake,Pampa Plains,28.7,1.5,7,35.6,16.5,0.15,230,168,57.3
+40,La Limpia,lake,Pampa Plains,5.6,1.9,10,35.62,16.5,0.15,1137,173,8.6
+41,La Tablilla,lake,Pampa Plains,12.9,1.1,9,35.8,16,2.1,23,92,2
+42,Blanca Grande,lake,Pampa Plains,4.1,1.5,100,36.47,15,0.2,250,185,67.4
+43,Alsina,lake,Pampa Plains,25.7,1.1,105,36.88,15,0.3,207,292,120.8
+44,Cochicó,lake,Pampa Plains,36.6,1.9,103,36.92,15,0.45,181,281,98.2
+45,Salada Grande,lake,Pampa Plains,48.1,2,2,36.92,14.5,4.6,53,161,1.6
+46,Los Horcones,lake,Pampa Plains,2,1.3,5,37,14.5,0.65,264,233,15.7
+47,Del Monte,lake,Pampa Plains,80,5.2,100,37,15,0.5,157,300,89
+48,Dulce,lake,Pampa Plains,2.5,2.7,98,37.06,15,0.25,398,363,115.1
+49,Del Venado,lake,Pampa Plains,25.3,3.8,97,37.08,15,0.28,456,339,153.4
+50,Epecuén,lake,Pampa Plains,45,4,95,37.13,15,0.2,1608,316,55.4
+51,La Brava,lake,Pampa Plains,4.3,3.4,70,37.88,14,1.4,188,79,7.9
+52,De los Padres,lake,Pampa Plains,2.9,2.7,50,37.87,13.8,2.9,124,73,3.3
+53,De Pigüé,lake,Pampa Plains,6.4,2.5,250,38.05,14,0.33,127,278,46.7
+54,De Saavedra,lake,Pampa Plains,4.5,2.7,253,38.03,14,0.52,72,117,23.8
 55,La Dulce,lake,Patagonian Plateau,49,3.8,230,38.05,15,1.1,25,78,12.8
 56,Urre Lauquen,lake,Patagonian Plateau,62.9,1.6,230,38.08,15,0.83,38,58,7.6
-57,Sauce Grande,lake,Pampa Plain,18.2,2.1,11,38.95,14.5,0.35,246,136,37.9
+57,Sauce Grande,lake,Pampa Plains,18.2,2.1,11,38.95,14.5,0.35,246,136,37.9
 58,Agrio,lake,Patagonian Andes,9.7,50.8,1650,37.88,6,9,238,21,0.61
 59,Pellegrini,lake,Patagonian Andes,100.7,9.4,270,38.41,14.5,2,24,45,14.1
 60,Marri Menuco,reservoir,Patagonian Plateau,174,79.4,421,38.58,13,8.5,4,6,0.66
